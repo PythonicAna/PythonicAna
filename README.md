@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PythonicAna
-- 👀 I’m interested in lerning python
+- 👀 I’m interested in learning python
 - 🌱 I’m currently learning python and IA
 
 
